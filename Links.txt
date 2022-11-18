@@ -1,0 +1,3 @@
+Case study:    https://github.com/snehapednekar/CaseStudy.git
+Training assignments:  https://github.com/snehapednekar/assignments.git
+Bench Assignments:  https://github.com/snehapednekar/Csharp-Assignments.git
